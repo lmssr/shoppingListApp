@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import ShoppingListApp from './components/shoppingList';
+import ShoppingListApp from './components/shoppingList/shoppingList';
 
 function App() {
   const initialItems = [
